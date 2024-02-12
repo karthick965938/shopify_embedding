@@ -1,0 +1,8 @@
+langchain
+pandas
+python-dotenv
+tiktoken
+jq
+beautifulsoup4
+openai
+faiss-cpu

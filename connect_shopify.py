@@ -6,6 +6,7 @@ import pandas as pd
 from dotenv import load_dotenv
 load_dotenv()
 
+#store name and API version
 shop_url = "https://quickstart-bde7c873.myshopify.com"
 api_version = "2023-07"
 
